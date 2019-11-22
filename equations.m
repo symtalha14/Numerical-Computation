@@ -1,4 +1,4 @@
-#Simple Linear Equation
+#graph of sine and cosine
 x=0:pi/100:2*pi
 y=sin(x)
 y1=cos(x)
